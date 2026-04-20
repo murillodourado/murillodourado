@@ -87,8 +87,8 @@ I am seeking opportunities that allow me to grow professionally and contribute t
 
 <img 
     align="left" 
-    alt="SQL" 
-    title="SQL"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
@@ -118,8 +118,8 @@ I am seeking opportunities that allow me to grow professionally and contribute t
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Figma" 
+    title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
