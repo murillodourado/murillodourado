@@ -139,12 +139,7 @@ I am seeking opportunities that allow me to grow professionally and contribute t
     src="https://github-readme-stats-two-omega-43.vercel.app/api/index/?username=murillodourado&show_icons=true&theme=tokyonight&locale=en&cache_seconds=86400&include_all_commits=true&token=" 
   />
 
-<img 
-  align="left" 
-  alt="Top Languages" 
-  height="200" 
-  src="https://github-readme-stats-three-red-46.vercel.app/api/top-langs/?username=murillodourado&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=8" 
-/>
+
 
 </p>
 
